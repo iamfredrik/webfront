@@ -1,0 +1,48 @@
+.panel-title>a {
+  cursor: pointer;
+}
+.navbar-default {
+  margin-bottom: 0;
+}
+
+.top-margin-30 {
+  margin-top: 30px;
+}
+
+.top-margin-100 {
+  margin-top: 100px;
+}
+.nav-link {
+  color: #c8c8c8;
+}
+
+.list, .grid {
+  cursor: pointer;
+  font-weight: bold;
+  color: #888888;
+}
+.list.active,
+.grid.active {
+  color: #c8c8c8;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.btn-margin {
+  margin: 10px;
+}
+
+.card-header {
+  padding: 0;
+}
+.card-title {
+  margin: 0;
+  display: block;
+  width: 100%;
+  padding: 0.75rem 1.25rem;
+}
+.card-title:hover {
+  text-decoration: none;
+}
